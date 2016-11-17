@@ -1,0 +1,10 @@
+ODLClientGetFlow.java - a program that sends a REST call to get a specified flow (in JSON format) from an SDN 
+switch located on the network.
+
+- To build and run this program, run as:
+
+./get_flow.sh <node_id> <table_id> <flow_id>
+
+<node_id> : the openflow switch ID (denoted by "openflow:<#############>")
+<table_id> : the flow table that the flow belongs to, normally 0
+<flow_id> : the ID of the flow that was assigned when it was created

@@ -1,0 +1,5 @@
+ODLClientGetPorts.java - a program that prints all of the active ports belonging to SDN switches on the network.
+
+- To build and run this program, run as:
+
+./get_ports.sh

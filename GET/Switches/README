@@ -1,0 +1,5 @@
+ODLClientGetSwitches.java - a program that prints out the SDN switches on the network.
+
+- To build and run this program, run as:
+
+./get_switches.sh

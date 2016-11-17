@@ -1,0 +1,6 @@
+ODLClientGetTopology.java - This program uses the jgrapht library to store the network topology in a graph data 
+structure.
+
+- To build and run this program, run as:
+
+./get_topology.sh
